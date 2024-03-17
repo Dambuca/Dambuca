@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Sergio Dambuca
+- 👀 I’m interested in Information Technology (IT)
+- 🌱 I’m currently learning Programming language
+- 💞️ I’m looking to collaborate on Frontend :Html,Css,Javascript 
+- 📫 How to reach me by email: sergiodambuca@gmail.com linkedln: Sergio Dambuca
+- 😄 Pronouns:
+- ⚡ Fun fact: 
